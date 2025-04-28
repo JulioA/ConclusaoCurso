@@ -16,7 +16,7 @@ Filtros e botões de nevagação. Da esquerda para a direita: Limpar filtros, Ho
 
 
 
-Despesas das unidades e onde elas foram gastas. Apresentando por mês, subgtupo, tipo de despesa e unidade das despesas.
+Despesas das unidades e onde elas foram gastas. Apresentando por mês, subgrupo, tipo de despesa e unidade das despesas.
 ![image2](https://github.com/user-attachments/assets/43a1c745-e5b8-4962-9742-b3fd2af385c1)
 
 
